@@ -10,3 +10,5 @@ This project demonstrates how to integrate Google Maps into a web application us
 - `User.ts`: Defines a class for creating user objects with a name and location.
 - `Company.ts`: Defines a class for creating company objects with a name, catchphrase, and location.
 - `map.ts`: Defines a class for interacting with the Google Maps API.
+
+- use npm i faker for fake information about user and company
